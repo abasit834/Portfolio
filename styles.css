@@ -47,6 +47,11 @@ body span {
   height: 24px;
 }
 
+.body {
+  position: absolute;
+  top: 22px;
+}
+
 .Main {
   display: flex;
   margin-top: 144px;
@@ -87,38 +92,6 @@ body span {
   margin-top: 12px;
 }
 
-.ellipse {
-  transform: rotate(52.971deg);
-  flex-shrink: 0;
-  margin-left: 125px;
-  margin-top: 63.81px;
-}
-
-.halfellipse {
-  flex-shrink: 0;
-  margin-left: 310px;
-  position: absolute;
-  margin-top: -60px;
-}
-
-.rectangle {
-  position: absolute;
-  width: 95.58px;
-  height: 22.021px;
-  transform: rotate(-30deg);
-  flex-shrink: 0;
-  background: var(--primary-b-50, #ebebff);
-  margin-left: 285px;
-  margin-top: -77px;
-}
-
-.circle {
-  flex-shrink: 0;
-  margin-top: 50px;
-  margin-left: 200px;
-}
-
-.smallcircle {
-  margin-bottom: 10px;
-  margin-left: 53px;
+.background {
+  position: relative;
 }
