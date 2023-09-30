@@ -1,16 +1,16 @@
 .worksection {
   width: 375px;
   height: auto;
-  background-color: #f2f2f9; 
+  background-color: #f2f2f9;
   display: grid;
   grid-template-rows: 590px 630px 590px 590px;
   padding-top: 144px;
-  padding-bottom: 114px ;
+  padding-bottom: 114px;
   grid-row-gap: 88px;
-  }
+}
 
 .card {
-  margin-left:16px;
+  margin-left: 16px;
   display: flex;
   flex-direction: column;
   width: 327px;
@@ -52,10 +52,10 @@
   line-height: 24px;
 }
 
-.content button{
-  color: var(--primary-b-500, #396DF2);
+.content button {
+  color: var(--primary-b-500, #396df2);
   text-align: center;
-  font-family: Poppins;
+  font-family: Poppins, sans-serif;
   font-size: 17px;
   font-style: normal;
   font-weight: 550;
@@ -64,13 +64,13 @@
   display: block;
   margin-top: 24px;
   border-radius: 8px;
-  border: 1px solid var(--primary-b-400, #6070FF);
-  display: flex;
+  border: 1px solid var(--primary-b-400, #6070ff);
   padding: 12px;
-  align-items: center; 
+  align-items: center;
   background-color: white;
   cursor: pointer;
 }
-button:hover{
-  background-color: #DFE1E6;
+
+button:hover {
+  background-color: #dfe1e6;
 }
