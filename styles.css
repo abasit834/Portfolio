@@ -1,16 +1,15 @@
-body{
+body {
   background-color: #f2f2f9;
 }
+
 .mobile {
   width: 375px;
   height: auto;
 }
 
-.intro{
+.intro {
   border-bottom-left-radius: 80px;
-
   background-color: white;
-
 }
 
 .Bar {
