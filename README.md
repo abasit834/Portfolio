@@ -37,3 +37,10 @@ Feel free to check the issues page.
 
 
 If you like this project do follow me on github for more projects
+
+# Credits
+
+ [Airej Tashfeen](https://github.com/airejtashfeen)
+ 
+ [Figma](https://www.figma.com/file/l7SqJ3ZfkAKih9sFxvWSR4/Microverse-Student-Project-1?node-id=39%3A285&mode=dev)
+ 
